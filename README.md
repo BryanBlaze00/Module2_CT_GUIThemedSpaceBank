@@ -2,6 +2,14 @@
 
 A Java-based desktop banking application featuring a custom Swing user interface, event-driven transaction handling, and modular object-oriented account management. 
 
+## Academic Context
+
+* Institution: Colorado State University Global
+
+* Course: CSC372 - Programming II / Java Programming
+
+* Objective: Design an event-driven graphical interface using Java Swing components to manage state transitions, user inputs, and account ledger transactions.
+
 ## Core Architecture & Components
 
 * GUI Engine (GalacticGUI.java, WelcomeScreen.java): Custom Java Swing interface components handling layout management, user input validation, screen transitions, and interactive visual elements.
